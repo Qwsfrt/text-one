@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+
+        content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+
+    <link rel="icon" href="./favicon.ico">
+
+    <title>ISAAC</title>
+
+</head>
+
+
+
+<body>
+
+<video width="320" height="240" controls="controls">
+
+  <source src="OUT_20211203_124324.mp4" type="video/mp4" />
+
+  <source src="movie.ogg" type="video/ogg" />
+
+  <source src="movie.webm" type="video/webm" />
+
+  <object data="movie.mp4" width="320" height="240">
+
+    <embed src="movie.swf" width="320" height="240" />
+
+  </object>
+
+</video>
+
+</body>
+
+
+
+</html>
